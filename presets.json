@@ -1,0 +1,72 @@
+[
+     {
+         "key":"980x1280",
+         "width":980,
+         "height":1280   
+  },
+     {
+         "key":"1280x600",
+         "width":1280,
+         "height":600   
+  },
+     {
+         "key":"320x480",
+         "name":"iPhone 3GS",
+         "width":320,
+         "height":480   
+  },
+     {
+         "key":"480x800",
+         "name":"Galaxy S, S2, Lumia 900",
+         "width":320,
+         "height":480   
+  },
+     {
+         "key":"720x1280",
+         "name":"Galaxy S3, Note 2",
+         "width":360,
+         "height":640   
+  },
+     {
+         "key":"800x1280",
+         "width":800,
+         "height":1280,
+         "name":"Galaxy Tab 1, 2, 3"   
+  },
+     {
+         "key":"1080x1920",
+         "width":360,
+         "height":640,
+         "name":"HTC One, Galaxy S4, S5"   
+  },
+     {
+         "key":"640x960",
+         "width":320,
+         "height":480,
+         "name":"iPhone 4"   
+  },
+     {
+         "key":"640x1136",
+         "width":320,
+         "height":568,
+         "name":"iPhone 5"   
+  },
+     {
+         "key":"750x1334",
+         "width":375,
+         "height":667,
+         "name":"iPhone 6"   
+  },
+     {
+         "key":"768x1024",
+         "width":768,
+         "height":1024,
+         "name":"iPad 1, 2, mini"   
+  },
+     {
+         "key":"1536x2048",
+         "width":768,
+         "height":1024,
+         "name":"iPad 3, 4, Air"   
+  } 
+]
